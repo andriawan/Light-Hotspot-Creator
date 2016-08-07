@@ -1,6 +1,7 @@
 # Light-Hotspot-Creator
 
 Utilitas ini membantu anda membuat hotspot di Laptop maupun PC (yang memiliki Hardware WLAN card)
+pada sistem operasi Windows 7 atau yang lebih baru.
 
 Anda tidak perlu menginsatall apapun. Cukup menjalankan file, Anda akan dipandu dalam pembuatan wifi hotspot
 
